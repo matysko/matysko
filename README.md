@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matysko
 - 👀 I’m interested in robotics and programming
-- 🌱 I’m currently learning Python, HTML/CSS, Arduino...
+- 🌱 I’m currently learning Python, HTML/CSS, Arduino, AI fundamentals...
 
 
 <!---
